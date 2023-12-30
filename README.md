@@ -12,7 +12,7 @@
 ## Traditional Hives:
 
 ### i) Log Hive
-[log hive](image_url)
+![Alt Text](https://github.com/adsfarm/beehives/blob/main/assests/images/clay-pot-hive.jpeg)
 - *Disadvantages:*
   - Brood chamber cannot be separated from the honey chamber, leading to honey contamination with the brood.
   - Harvesting is tedious.
