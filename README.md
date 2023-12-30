@@ -33,9 +33,10 @@ Not commonly used by commercial bee keepers because they have the following disa
   - Better defense against attack by varroa mites and ants.
 
 *Disadvantages:*
-  - Cannot be expanded. Harder to get a new colony.
+  - Cannot be expanded.
+  - Harder to get a new colony.
   - Requires more skill and confidence by the beekeeper.
-  - Higher possibility of cross-combining.
+  - Higher possibility of cross-combing.
   - Easier to steal because it is light.
   - More time to reconstruct the combs and stock with honey.
 
@@ -45,7 +46,7 @@ Not commonly used by commercial bee keepers because they have the following disa
 *Advantages:*
   - High honey production.
   - Possible to extract honey without destroying the combs, leading to shorter harvesting intervals.
-  - Foundation and frames (spindles) prevent cross-combining.
+  - Foundation and frames prevent cross-combing.
   - Fairly inexpensive.
   - Standard size of parts allows interchangeability.
   - Easy to find equipment and supplies.
