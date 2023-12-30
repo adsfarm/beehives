@@ -23,7 +23,7 @@
   - Removal of combs for inspection is impossible.
 
 ### ii) Clay-pot Hive
-[](./assets/images/clay-pot-hive.jpeg)
+![](./assets/images/clay-pot-hive.jpeg)
 
 <!--<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/clay-pot-hive.jpeg" alt="Alt Text" width="300"/>-->
 
