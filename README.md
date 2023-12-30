@@ -1,19 +1,17 @@
-# COMMON BEEHIVES IN KENYA
-<img src="" alt="Alt Text" width="300"/>
-## Types:
+## COMMON BEEHIVES IN KENYA
+
+Types:
 1. Traditional Hives
 2. Modern Hives
    
-## Traditional Hives:
-    Log Hive
-    Clay-pot Hive
-## Modern Hives
-    Langstroth Beehive
-    Top Bar Hives
 
 ### Traditional Hives
-#### i) Log Hive
-![](./assets/images/log-hive-occupied-and-covered.JPG)
+1. #### Log Hives
+<img src="./assests/images/log-hive-occupied-and-covered.JPG" alt="Alt Text" width="300"/>
+
+2. #### Clay-pot Hive
+<img src="./assests/images/clay-pot-hive.jpeg" alt="Alt Text" width="300"/>
+
 Not commonly used by commercial bee keepers because they have the following disadvantages:
  - Brood chamber cannot be separated from the honey chamber, leading to honey contamination with the brood.
  - Harvesting is tedious.
@@ -22,31 +20,29 @@ Not commonly used by commercial bee keepers because they have the following disa
  - Increased disturbance of the colony during harvesting or maintenance.
  - Removal of combs for inspection is impossible.
 
-#### ii) Clay-pot Hive
-![](./assets/images/clay-pot-hive.jpeg)
 
-<!--<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/clay-pot-hive.jpeg" alt="Alt Text" width="300"/>-->
-
-- *Disadvantages:* (Similar to Log Hive)
 
 ### Modern Hives:
 
-### - Top Bar Hives
+1. #### Top Bar Hives
 <img src="./assests/images/top-bar-covered.jpeg" alt="Alt Text" width="300"/>
-- *Advantages:*
+
+*Advantages:*
   - Lighter.
   - Easier harvesting of honey and wax left over.
   - **Mile defense.**
-- *Disadvantages:*
+
+*Disadvantages:*
   - Cannot be expanded. Harder to get a new colony.
   - Requires more skill and confidence by the beekeeper.
   - Higher possibility of cross-combining.
   - Easier to steal because it is light.
   - More time to reconstruct the combs and stock with honey.
 
-### - Langstroth Hives
-<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/langstroth-Beehive2.jpeg" alt="Alt Text" width="300"/>
-- *Advantages:*
+2. #### Langstroth Hives
+<img src="./assests/images/langstroth-Beehive2.jpeg" alt="Alt Text" width="300"/>
+
+*Advantages:*
   - High honey production.
   - Possible to extract honey without destroying the combs, leading to shorter harvesting intervals.
   - Foundation and frames (spindles) prevent cross-combining.
@@ -55,4 +51,3 @@ Not commonly used by commercial bee keepers because they have the following disa
   - Easy to find equipment and supplies.
   - Easier to inspect during maintenance.
 
-**Note:** Langstroth hives are more common in commercial beekeeping.
