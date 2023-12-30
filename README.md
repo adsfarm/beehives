@@ -32,7 +32,7 @@
 ## Modern Hives:
 
 ### - Top Bar Hives
-<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/top-bar-covered.jpeg" alt="Alt Text" width="300"/>
+<img src="./assests/images/top-bar-covered.jpeg" alt="Alt Text" width="300"/>
 - *Advantages:*
   - Lighter.
   - Easier harvesting of honey and wax left over.
