@@ -1,5 +1,5 @@
 # COMMON BEEHIVES IN KENYA
-
+<img src="" alt="Alt Text" width="300"/>
 ## Types:
 1. **Traditional Hives**
    - i) Log Hive
@@ -12,7 +12,7 @@
 ## Traditional Hives:
 
 ### i) Log Hive
-<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/clay-pot-hive.jpeg" alt="Alt Text" width="300"/>
+<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/log-hive-occupied-and-covered.jpeg" alt="Alt Text" width="300"/>
 
 - *Disadvantages:*
   - Brood chamber cannot be separated from the honey chamber, leading to honey contamination with the brood.
@@ -23,11 +23,14 @@
   - Removal of combs for inspection is impossible.
 
 ### ii) Clay-pot Hive
+<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/clay-pot-hive.jpeg" alt="Alt Text" width="300"/>
+
 - *Disadvantages:* (Similar to Log Hive)
 
 ## Modern Hives:
 
 ### - Top Bar Hives
+<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/top-bar-covered.jpeg" alt="Alt Text" width="300"/>
 - *Advantages:*
   - Lighter.
   - Easier harvesting of honey and wax left over.
@@ -40,6 +43,7 @@
   - More time to reconstruct the combs and stock with honey.
 
 ### - Langstroth Hives
+<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/langstroth-Beehive2.jpeg" alt="Alt Text" width="300"/>
 - *Advantages:*
   - High honey production.
   - Possible to extract honey without destroying the combs, leading to shorter harvesting intervals.
