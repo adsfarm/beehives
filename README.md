@@ -30,7 +30,7 @@ Not commonly used by commercial bee keepers because they have the following disa
 *Advantages:*
   - Lighter.
   - Easier harvesting of honey and wax left over.
-  - **Mile defense.**
+  <!-- Mile defense.-->
 
 *Disadvantages:*
   - Cannot be expanded. Harder to get a new colony.
