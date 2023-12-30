@@ -12,7 +12,7 @@
 ## Traditional Hives:
 
 ### i) Log Hive
-<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/log-hive-occupied-and-covered.jpeg" alt="Alt Text" width="300"/>
+![](assets/images/log-hive-occupied-and-covered.jpeg)
 
 - *Disadvantages:*
   - Brood chamber cannot be separated from the honey chamber, leading to honey contamination with the brood.
