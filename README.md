@@ -1,35 +1,35 @@
 # COMMON BEEHIVES IN KENYA
 <img src="" alt="Alt Text" width="300"/>
 ## Types:
-1. **Traditional Hives**
-   - i) Log Hive
-   - ii) Clay-pot Hive
-
-2. **Modern Hives**
-   - i) Langstroth Beehive
-   - ii) Kenya Top Bar Hive
-
+1. Traditional Hives
+2. Modern Hives
+   
 ## Traditional Hives:
+    Log Hive
+    Clay-pot Hive
+## Modern Hives
+    Langstroth Beehive
+    Top Bar Hives
 
-### i) Log Hive
+### Traditional Hives
+#### i) Log Hive
 ![](./assets/images/log-hive-occupied-and-covered.JPG)
+Not commonly used by commercial bee keepers because they have the following disadvantages:
+ - Brood chamber cannot be separated from the honey chamber, leading to honey contamination with the brood.
+ - Harvesting is tedious.
+ - Frequent invasion by ants and pests, leading to absconding.
+ - Limited insulation to temperature and humidity.
+ - Increased disturbance of the colony during harvesting or maintenance.
+ - Removal of combs for inspection is impossible.
 
-- *Disadvantages:*
-  - Brood chamber cannot be separated from the honey chamber, leading to honey contamination with the brood.
-  - Harvesting is tedious.
-  - Frequent invasion by ants and pests, leading to absconding.
-  - Limited insulation to temperature and humidity.
-  - Increased disturbance of the colony during harvesting or maintenance.
-  - Removal of combs for inspection is impossible.
-
-### ii) Clay-pot Hive
+#### ii) Clay-pot Hive
 ![](./assets/images/clay-pot-hive.jpeg)
 
 <!--<img src="https://github.com/adsfarm/beehives/blob/main/assests/images/clay-pot-hive.jpeg" alt="Alt Text" width="300"/>-->
 
 - *Disadvantages:* (Similar to Log Hive)
 
-## Modern Hives:
+### Modern Hives:
 
 ### - Top Bar Hives
 <img src="./assests/images/top-bar-covered.jpeg" alt="Alt Text" width="300"/>
